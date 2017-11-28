@@ -19,4 +19,4 @@ Facebook [@DreamHigherCT](https://www.facebook.com/DreamHigherCT/)
 
 or just write a message below and we will get back to you
 
-{{< form-contact action="http://formspree.io/dreamhigherct@gmail.com"  >}}
+{{<form-contact>}}
