@@ -8,9 +8,9 @@ featured_image: '/images/gym_dh.jpg'
 
 Climbing exposes us to a range of emotions such as fear, frustration, pride, and joy; and to manage these emotions we need to learn self control, balance, patience and commitment. At DreamHigher, we believe that this journey leads to growth and emotional balance
 
-Our home of Cape Town, South Africa is one of the world's premier rock climbing destinations, with an alomst endless array of high quality boulders, sport and traditional climbing routes. Within a few hours drive lies the bouldering mecca of Rocklands, visited by the best climbers in the world every year
+Our home of Cape Town, South Africa is one of the world's premier rock climbing destinations, with an almost endless array of high quality boulders, sport and traditional climbing routes. Within a few hours drive lies the bouldering mecca of Rocklands, visited by the best climbers in the world every year
 
-The emotional benefits of climbing, the strong bonds within the climbing community, and exposure to the beauty of the natural world make this sport an ideal opportunity to build bridges occurs social divides, connect youth with their natural heritage and heal the damage inflicted by violence, substance abuse and poverty on the youth of Cape Town.
+The emotional benefits of climbing, the strong bonds within the climbing community, and exposure to the beauty of the natural world make this sport an ideal opportunity to build bridges across social divides, connect youth with their natural heritage and heal the damage inflicted by violence, substance abuse and poverty on the youth of Cape Town.
 
 ## How we started  
 
