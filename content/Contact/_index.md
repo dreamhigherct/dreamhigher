@@ -1,7 +1,7 @@
 ---
 title: Contact
 description: We'd love to hear from you
-featured_image: '/images/dh_rh.jpg'
+featured_image: '/images/rh_dh.jpg'
 
 ---
 

@@ -1,5 +1,5 @@
 ---
 title: "News"
-featured_image: '/images/dh_hig.jpeg'
+featured_image: '/images/hig_dh.jpg'
 description: "recent happenings"
 ---

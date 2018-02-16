@@ -1,7 +1,7 @@
 ---
 title: "Support us"
 description: "Help support our work"
-featured_image: '/images/geocache.jpeg'
+featured_image: '/images/geocache_dh.jpg'
 ---
 
 ## Donate  

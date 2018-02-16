@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: "Our story"
-featured_image: '/images/bb1.jpg'
+featured_image: '/images/gym_dh.jpg'
 ---
 
 ## Why climbing  
