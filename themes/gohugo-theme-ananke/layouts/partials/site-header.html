@@ -9,20 +9,13 @@
         <h1 class="f2 f-subheadline-l fw2 white-90 mb0 lh-title">
           {{ .Title | default .Site.Title }}
         </h1>
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        {{ with .Params.description }}
-          <h2 class="fw1 f5 f3-l white-80 measure-wide-l center mt3">
-            {{ . }}
-          </h2>
-        {{ end }}
       </div>
     </div>
+         {{ if .Params.description }}
+          <img src="/images/dh2_tri.png" alt="Smiley face" align="top" height="350">
+        {{ else }}
+          <img src="/images/dh1_tri.png" alt="Smiley face" align="top" height="100">
+        {{ end }}
   </header>
 {{ else }}
   <header>

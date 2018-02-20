@@ -1,8 +1,25 @@
 ---
 title: "About"
-description: " "
+description: ""
 featured_image: '/images/gym_dh.jpg'
 ---
+
+## Our mission
+
+Our goal is to bring rock climbing to the vulnerable youth of Cape
+Town, building confidence, bridging social divides and forming connections with the natural world
+
+## What we do
+
+#### Indoor bouldering session
+We organise multiple indoor coaching sessions a week for vulnerable youth from the Homestead at Cape Town’s premier indoor bouldering gym Bloc 11. We follow a training plan developed by our head training adviser [Matt Bush](https://www.instagram.com/mattclimber/) and our sessions are guided by experienced climbers who regularly invite some of South Africa’s top climbers to join the fun  
+
+#### Outdoor climbing days
+We have regular outdoor days in the month, bouldering and sport climbing around the Cape Peninsula under the supervision of experienced climbing guides  
+
+#### Introduction to climbing afternoons
+We offer to local outreach social initiatives working with vulnerable youth an introduction to climbing as a recreational activity so that their kids can come discover what is the sport about, have fun and test themselves against the problems. These events are hosted at Bloc 11 on a weekend afternoon, they are designed for groups of 10-15 youth who will be guided by experienced climbing coaches and our most committed team members. 
+If you are involved with such social initiatives and would like to explore the possibility to collaborate, kindly get in touch with us.
 
 ## Why climbing  
 
@@ -16,11 +33,12 @@ The emotional benefits of climbing, the strong bonds within the climbing communi
 
 Recognizing these benefits, a small group of local climbers approached the Homestead Project for Street Children and proposed to introduce the youth under their care to climbing. 
 
-[The Homestead Project for Street Children](http://homestead.org.za/) is a Cape Town based non-profit addressing to the plight of children living, working and begging on the streets of Cape Town. 
-  
-We now offer multiple indoor coaching sessions a week for vulnerable youth from the Homestead and other facilities at Cape Town's premier indoor bouldering gym [Bloc 11](http://www.bloc11.co.za), with input from some of South Africa's top climbing coaches. We also have regular outdoor days, bouldering and sport climbing around the Cape Peninsula under the supervision of experienced climbing guides.
+[The Homestead Project for Street Children](http://homestead.org.za/) is a Cape Town based non-profit addressing to the plight of children living, working and begging on the streets of Cape Town.
 
+With the support of [Bloc 11](http://www.bloc11.co.za) and [Vertigo adventures](https://vertigoadventures.co.za) we were provided with a world class bouldering facility from which to run our programme and top quality gear to equip our climbers
+  
 ## Our supporters  
+
 Our work is made possible by support from  
   
 <a href="http://www.bloc11.co.za">

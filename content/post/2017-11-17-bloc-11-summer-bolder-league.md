@@ -8,7 +8,7 @@ tags:
   - Bloc11
   - Competition
 description: ''
-featured_image: 'images/bloc11_league.jpg'
+featured_image: 'images/summer_dh.jpg'
 ---
 
 Are you planning to enter the Summer Boulder league at Bloc 11? Good news if you’re looking for beginner climber to form your team! Our DreamHigher guys are super amped to join the fun and are looking for teams. This is a great opportunity for you to get to know the DreamHigher team, and help them on their journey to becoming confident, strong climbers.

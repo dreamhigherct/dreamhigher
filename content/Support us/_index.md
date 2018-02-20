@@ -1,15 +1,15 @@
 ---
 title: "Support us"
-description: " "
+description: ""
 featured_image: '/images/geocache_dh.jpg'
 ---
 
 ## Donate  
   
+#### Financial contributions
 We are currently in the process of registering as a non-profit capable of accepting charitable donations. At the moment, if you would like to help financially, please contact us [here](./contact), or pay us a visit at [bloc 11](https://bloc11.co.za/).  
   
-## Gear  
-  
+#### Gear
 We are also always looking for additional climbing gear to help our team members. Things we are in particular need of are:  
 
 Ropes  
@@ -20,11 +20,11 @@ Crashpads
 Climbing sportwear and apparell  
 Hiking shoes 
 
-## Join us  
+## Join us outdoors
   
 We go climbing and bouldering around the Cape Peninsula regularly. It is always great to have a good crew of climbers at the crag simply to encourage the DreamHigher crew, share beta and make them feel part of the climbing community. [Get hold of us](./contact) to find our when and where our next adventure will be happening
 
-## Volunteer  
+## Volunteer your skills
   
 If you have a skill that you think could be of help to us, and would like to volunteer you time, please [Get in touch](./contact). We are always looking for people with skills in web design, legal issues, sports science or other relevant areas to contribute to our cause
 
