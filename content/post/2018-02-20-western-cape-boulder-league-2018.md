@@ -13,7 +13,7 @@ description: ''
 featured_image: 'images/boulder_dh.jpg'
 ---
 
-Western Cape boulder league kicked-off last week at City Rock. Cape Town's strongest climbers decended in force and there were some really impressive performances from the usual suspects like Rowan Toselli of [be bolder](http://bebolder.co.za/) and Adam Ludford.   
+Western Cape boulder league kicked-off last week at City Rock. Cape Town's strongest climbers decended in force and there were some really impressive performances from the usual suspects like Rowan Toselli of [Be Bolder](http://bebolder.co.za/) and Adam Ludford.   
   
 DreamHigher were represented by Obert and Sibo, who had a great time working problems and sharing beta with other climbers. They were stumped by some of the hardest climbs, along with most other climbers, but showed great commitment.
 
