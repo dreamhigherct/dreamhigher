@@ -17,12 +17,12 @@ Quickdraws
 Helmets  
 GriGris and ATC's  
 Crashpads  
-Climbing sportwear and apparell  
+Climbing sportwear 
 Hiking shoes 
 
 ## Join us outdoors
   
-We go climbing and bouldering around the Cape Peninsula regularly. It is always great to have a good crew of climbers at the crag simply to encourage the DreamHigher crew, share beta and make them feel part of the climbing community. [Get hold of us](./contact) to find our when and where our next adventure will be happening
+We go climbing and bouldering around the Cape Peninsula regularly. It is always great to have a good crew of climbers at the crag simply to encourage the DreamHigher crew, share beta and make them feel part of the climbing community. [Get hold of us](./contact) to find out when and where our next adventure will be happening
 
 ## Volunteer your skills
   
