@@ -39,6 +39,17 @@ With the support of [Bloc 11](http://www.bloc11.co.za) and [Vertigo adventures](
   
 ## Our supporters  
 
+Logo design by:  
+
+Sujay Sanan - [the Wild Union](https://www.thewildunion.com/)  
+  
+Photography by:  
+
+Rowan and Siobhan Toselli - [Be Bolder](http://www.bebolder.co.za/)  
+Michal Lyczek - [lyczekphotography](http://www.lyczekphotography.com)  
+  
+------
+
 Our work is made possible by support from  
   
 <a href="http://www.bloc11.co.za">
