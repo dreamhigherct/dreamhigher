@@ -26,7 +26,7 @@ We go climbing and bouldering around the Cape Peninsula regularly. It is always 
 
 ## Volunteer your skills
   
-If you have a skill that you think could be of help to us, and would like to volunteer you time, please [Get in touch](./contact). We are always looking for people with skills in web design, legal issues, sports science or other relevant areas to contribute to our cause
+If you have a skill that you think could be of help to us, and would like to volunteer your time, please [Get in touch](./contact). We are always looking for people with skills in web design, legal issues, sports science or other relevant areas to contribute to our cause
 
 ## Social media  
   
