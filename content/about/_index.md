@@ -58,7 +58,11 @@ Our work is made possible by support from
 <a href="https://vertigoadventures.co.za">
   <img src="/images/vertigo.png" alt="vertigo" style="width:200px;height100px;">
 </a>  
-  
+
+<a href="http://www.cityrock.co.za/capetown/">
+  <img src="/images/city.png" alt="cityrock" style="width:150px;height:150px;">
+</a>
+
 <a href="https://madrock.com/">
   <img src="/images/mad_rock.png" alt="mad rock" style="width:150px;height:150px;">
 </a>  

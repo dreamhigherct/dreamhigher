@@ -7,7 +7,7 @@ featured_image: '/images/geocache_dh.jpg'
 ## Donate  
   
 #### Financial contributions
-We are currently in the process of registering as a non-profit capable of accepting charitable donations. At the moment, if you would like to help financially, please contact us [here](./contact), or pay us a visit at [bloc 11](https://bloc11.co.za/).  
+We are a regsitered Non-Profit Organisation. If you would like to help financially, please contact us [here](./contact), or pay us a visit at [bloc 11](https://bloc11.co.za/).  
   
 #### Gear
 We are also always looking for additional climbing gear to help our team members. Things we are in particular need of are:  
@@ -17,7 +17,7 @@ Quickdraws
 Helmets  
 GriGris and ATC's  
 Crashpads  
-Climbing sportwear 
+Climbing sportwear  
 Hiking shoes 
 
 ## Join us outdoors
