@@ -17,7 +17,7 @@ enableRobotsTXT = true
 
 [params]
   favicon = "images/favicon.png"
-  description = ""
+  description = "Climbing for the vulnerable youth of Cape Town"
   facebook = "https://www.facebook.com/DreamHigherCT/"
   twitter = ""
   instagram = "https://www.instagram.com/dreamhigher/"
