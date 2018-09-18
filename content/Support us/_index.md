@@ -15,7 +15,7 @@ Account number: 10108520852
 Branch code 051001  
 Swift code:  SBZA ZA JJ  
   
-Please contact us [here](./contact) if you require further deails and to request a section 18A certificate to claim a tax deduction on your donation  
+Please contact us [here](./contact) if you require further details and to request a section 18A certificate to claim a tax deduction on your donation  
   
 #### Gear
 We are also always looking for additional climbing gear to help our team members. Things we are in particular need of are:  
