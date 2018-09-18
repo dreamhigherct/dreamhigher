@@ -7,7 +7,15 @@ featured_image: '/images/geocache_dh.jpg'
 ## Donate  
   
 #### Financial contributions
-We are a regsitered Non-Profit Organisation. If you would like to help financially, please contact us [here](./contact), or pay us a visit at [bloc 11](https://bloc11.co.za/).  
+We are a regsitered Non-Profit Organisation. If you would like to help financially, you can make a EFT (South Africa), or Wire transfer (international) using these banking details:  
+  
+Bank: Standard Bank  
+Account holder: DreamHigher Climbing Club NPO  
+Account number: 10108520852  
+Branch code 051001  
+Swift code:  SBZA ZA JJ  
+  
+Please contact us [here](./contact) if you require further deails and to request a section 18A certificate to claim a tax deduction on your donation  
   
 #### Gear
 We are also always looking for additional climbing gear to help our team members. Things we are in particular need of are:  
