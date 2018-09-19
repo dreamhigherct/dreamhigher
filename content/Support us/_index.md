@@ -7,7 +7,7 @@ featured_image: '/images/geocache_dh.jpg'
 ## Donate  
   
 #### Financial contributions
-We are a regsitered Non-Profit Organisation. If you would like to help financially, you can make a EFT (South Africa), or Wire transfer (international) using these banking details:  
+We are a registered Non-Profit Organisation (NPO # 208-621). If you would like to help financially, you can make a EFT (South Africa), or Wire transfer (international) using these banking details:  
   
 Bank: Standard Bank  
 Account holder: DreamHigher Climbing Club NPO  
