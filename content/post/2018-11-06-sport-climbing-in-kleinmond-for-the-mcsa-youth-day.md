@@ -8,7 +8,7 @@ categories:
 tags:
   - MCSA
 description: ''
-featured_image: 'thurlow_kl.jpeg'
+featured_image: '/images/thurlow_kl.jpeg'
 ---
 
 It was a hot and sunny day, perfect for a visit to the Kleinmond crag. The psyche was high in the car driving the scenic Whale Coast Road. Our guys really love getting out of Cape Town, they have not had many opportunities to move around much. On time, we met up with the rest of the crew and started the steep hike to the crag. Well worth it once arrived: up there, the scenery is splendid, ocean, river mouth and mountains. 
