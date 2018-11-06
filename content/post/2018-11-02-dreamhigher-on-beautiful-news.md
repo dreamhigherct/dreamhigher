@@ -1,7 +1,7 @@
 ---
 title: DreamHigher on Beautiful News
 author: DreamHigher
-date: '2018-11-02'
+date: '2018-10-01'
 slug: dreamhigher-on-beautiful-news
 categories:
   - Media
