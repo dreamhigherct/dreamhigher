@@ -15,7 +15,14 @@ Account number: 10108520852
 Branch code 051001  
 Swift code:  SBZA ZA JJ  
   
-Please contact us [here](./contact) if you require further details and to request a section 18A certificate to claim a tax deduction on your donation  
+Please contact us [here](./contact) if you require further details and to request a section 18A certificate to claim a tax deduction on your donation.
+
+
+You can also donate through [givengain](https://www.givengain.com/c/dreamhigher/).  
+Simply click to Donate Now below  
+
+<iframe frameborder="0" src="https://www.givengain.com/widget/en/cause/14882/" width="400" height="250"></iframe>
+  
   
 #### Gear
 We are also always looking for additional climbing gear to help our team members. Things we are in particular need of are:  
