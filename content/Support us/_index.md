@@ -21,7 +21,7 @@ Please contact us [here](./contact) if you require further details and to reques
 You can also donate through [givengain](https://www.givengain.com/c/dreamhigher/).  
 Simply click to Donate Now below  
 
-<iframe frameborder="0" src="https://www.givengain.com/widget/en/cause/14882/" width="400" height="250"></iframe>
+<iframe frameborder="0" src="https://www.givengain.com/widget/en/cause/14882/" width="800" height="500"></iframe>
   
   
 #### Gear
