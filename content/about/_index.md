@@ -12,7 +12,7 @@ Town, building confidence, bridging social divides and forming connections with 
 ## What we do
 
 #### Indoor bouldering session
-We organise multiple indoor coaching sessions a week for vulnerable youth from the Homestead at Cape Town’s premier indoor bouldering gym Bloc 11. We follow a training plan developed by our head training adviser [Matt Bush](https://www.instagram.com/mattclimber/) and our sessions are guided by experienced climbers who regularly invite some of South Africa’s top climbers to join the fun  
+We organise multiple indoor coaching sessions a week for vulnerable youth from youth homes around Cape Town at the city's premier indoor bouldering gym Bloc 11. We follow a training plan developed by our head training adviser Michelle Albertyn and our sessions are guided by experienced climbers who regularly invite some of South Africa’s top climbers to join the fun  
 
 #### Outdoor climbing days
 We have regular outdoor days in the month, bouldering and sport climbing around the Cape Peninsula under the supervision of experienced climbing guides  
