@@ -1,7 +1,7 @@
 ---
 title: "About"
-description: ""
-featured_image: '/images/gym_dh.jpg'
+description: ''
+featured_image: /images/gym_dh.jpg
 ---
 
 ## Our mission
@@ -12,7 +12,7 @@ Town, building confidence, bridging social divides and forming connections with 
 ## What we do
 
 #### Indoor bouldering session
-We organise multiple indoor coaching sessions a week for vulnerable youth from the Homestead at Cape Town’s premier indoor bouldering gym Bloc 11. We follow a training plan developed by our head training adviser [Matt Bush](https://www.instagram.com/mattclimber/) and our sessions are guided by experienced climbers who regularly invite some of South Africa’s top climbers to join the fun  
+We organise multiple indoor coaching sessions a week for vulnerable youth from the Homestead at Cape Town’s premier indoor bouldering gym Bloc 11. We follow a training plan developed by our head coach Michelle Albertyn and our sessions are guided by experienced climbers who regularly invite some of South Africa’s top climbers to join the fun  
 
 #### Outdoor climbing days
 We have regular outdoor days in the month, bouldering and sport climbing around the Cape Peninsula under the supervision of experienced climbing guides  
@@ -52,29 +52,4 @@ Michal Lyczek - [lyczekphotography](http://www.lyczekphotography.com)
 
 Our work is made possible by support from  
   
-<a href="http://www.bloc11.co.za">
-  <img src="/images/bloc11.jpeg" alt="bloc11" style="width:150px;height:150px;"> </a>  
-  
-<a href="https://vertigoadventures.co.za">
-  <img src="/images/vertigo.png" alt="vertigo" style="width:200px;height100px;">
-</a>  
-
-<a href="http://www.cityrock.co.za/capetown/">
-  <img src="/images/city.png" alt="cityrock" style="width:150px;height:150px;">
-</a>
-
-<a href="https://madrock.com/">
-  <img src="/images/mad_rock.png" alt="mad rock" style="width:150px;height:150px;">
-</a>  
-  
-<a href="https://frictionlabs.com/">
-  <img src="/images/friction.png" alt="friction labs" style="width:150px;height:150px;">
-</a>    
-  
-<a href="http://www.westerncapeclimbing.co.za/">
-  <img src="/images/wcc.jpg" alt="wcc" style="width:150px;height:150px;">
-</a>  
-  
-<a href="http://www.sancf.org/">
-  <img src="/images/sancf.jpg" alt="wcc" style="width:350px;height:100px;">
-</a>
+![](/images/all.jpeg)

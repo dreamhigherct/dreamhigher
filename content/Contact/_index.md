@@ -15,13 +15,8 @@ We are based at [bloc 11](https://bloc11.co.za/) indoor climbing in Cape Town, S
   
 ## Social media  
  
- <a href="https://www.instagram.com/dreamhigher/">
-  <img src="/images/ig_logo.png" alt="dreamhigher instagram" style="width:80px;height:80px;">
-</a>[@dreamhigher](https://www.instagram.com/dreamhigher/)    
-  
- <a href="https://www.facebook.com/DreamHigherCT/">
-  <img src="/images/fb_logo.png" alt="dreamhigher facebook" style="width:90px;height:90px;">
-</a>[@DreamHigherCT](https://www.facebook.com/DreamHigherCT/)
+Instagram [@dreamhigher](https://www.instagram.com/dreamhigher/)   
+Facebook [@DreamHigherCT](https://www.facebook.com/DreamHigherCT/)
 
 ## Here
   
