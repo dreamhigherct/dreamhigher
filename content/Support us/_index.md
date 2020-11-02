@@ -26,7 +26,8 @@ If you are based in a country outside of South Africa, you can donate online thr
 ##### Snapscan  
 
 If you are based in South Africa, you can donate through Snapscan by simply scanning the QR code below
-![Snapscan](/images/snapcode.png)
+
+![Snapscan](/images/snapcode2.png)
 
   
 #### Gear
